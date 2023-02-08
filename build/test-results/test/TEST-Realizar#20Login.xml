@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Realizar Login" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-08T00:13:08" hostname="DESKTOP-4DRDE1B" time="18.376">
+  <properties/>
+  <testcase name="Login exitoso" classname="Realizar Login" time="18.376"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[feb. 07, 2023 7:13:08 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 109.0.5414.25 (771113d280dd3dda2fb422a6c805f0eb2b8ee6ed-refs/branch-heads/5414@{#303}) on port 24432
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+feb. 07, 2023 7:13:12 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

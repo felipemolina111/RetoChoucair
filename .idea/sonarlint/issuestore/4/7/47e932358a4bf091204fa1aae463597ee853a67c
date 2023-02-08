@@ -1,0 +1,6 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+[
+java:S1128"ERemove this unused import 'net.serenitybdd.screenplay.actions.Click'.(€Äø
+]
+java:S1128	"BRemove this unused import 'net.serenitybdd.screenplay.waits.Wait'.(Èø€®øÿÿÿÿ

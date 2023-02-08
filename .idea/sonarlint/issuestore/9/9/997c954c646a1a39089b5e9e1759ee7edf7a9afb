@@ -1,0 +1,21 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï³ü‚ýÿÿÿÿ
+R
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ÑÀÒç
+R
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(í‹ð±
+Q
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(îäø
+W
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(¦˜ä†ùÿÿÿÿ
+W
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ƒ¹‡¤üÿÿÿÿ
+W
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(âà½ûÿÿÿÿ
+R
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(œ½ô»
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îõ®ÿþÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'demo.serenity.is.utils.Datos'.(‚¢‹¾
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
